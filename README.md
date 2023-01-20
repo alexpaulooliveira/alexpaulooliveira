@@ -6,7 +6,7 @@
 
 **Field of interests**: React.JS, React Native, Linux, ExpressJS, Graphs, GIS, Leaflet, OpenLayers
 
-**Curriculum Vitae**: [cv.pdf](https://github.com/alexpaulooliveira/alexpaulooliveira/cv.pdf)
+**Curriculum Vitae**: [cv.pdf](https://github.com/alexpaulooliveira/alexpaulooliveira/blob/main/cv.pdf)
 
 ### Skills 🛠️
 - **Languages**: &nbsp;                          Python, SQL
