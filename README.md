@@ -6,13 +6,12 @@
 
 **Field of interests**: React.JS, React Native, Linux, ExpressJS, Graphs, GIS, Leaflet, OpenLayers
 
-**Curriculum Vitae**: [cv.pdf](https://github.com/alexpaulooliveira/alexpaulooliveira/blob/main/cv.pdf)
+<!-- ! **Curriculum Vitae**: [cv.pdf](https://github.com/alexpaulooliveira/alexpaulooliveira/blob/main/cv.pdf)  -->
 
 ### Skills 🛠️
-- **Languages**: &nbsp;                          Python, SQL
-- **DS/ML/DL**: &nbsp;&nbsp;                     Sklearn, PyTorch, Transformers
-- **Big Data**:  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Hadoop, Hive, Spark
-- **DevOps**:  &nbsp;&nbsp;&nbsp;&nbsp;          Linux, Git, Docker, CI/CD
+- **Languages**: &nbsp;                          JavaScript, TypeScript, Python, SQL, PL/pgSQL 
+- **DS/ML/DL**: &nbsp;&nbsp;                     Sklearn
+- **DevOps**:  &nbsp;&nbsp;&nbsp;&nbsp;          Linux, Git, GitLab, GitHub, CI/CD
 
 ### Work experience 👔
 | Job Position                 | Company            | Field                        | Work Period                |
@@ -64,4 +63,4 @@
 ### GitHub Stats ⭐
 [![Dani El-Ayyass' github stats](https://github-readme-stats.vercel.app/api?username=dayyass&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-More information in my [LinkedIn](https://www.linkedin.com/in/dayyass/) 🚀
+More information in my [LinkedIn](https://www.linkedin.com/in/alexpauloo/) 🚀
