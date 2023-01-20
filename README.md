@@ -1,12 +1,12 @@
-![](https://komarev.com/ghpvc/?username=alexpaulooliveira&color=36b812)<br>
+<!-- ![](https://komarev.com/ghpvc/?username=alexpaulooliveira&color=36b812)<br>
 ![](https://img.shields.io/github/followers/alexpaulooliveira?style=social)<br>
-![](https://img.shields.io/github/stars/alexpaulooliveira?style=social)<br>
+![](https://img.shields.io/github/stars/alexpaulooliveira?style=social)<br> -->
 
-### Hi, my name is Dani 👋 and I ❤️ open-source
+### Hi, my name is Alex 👋 and I ❤️ open-source
 
-**Field of interests**: NLP, RL, MLOps, Graphs, Distributed Systems
+**Field of interests**: React.JS, React Native, Linux, ExpressJS, Graphs, GIS, Leaflet, OpenLayers
 
-<!--- **Curriculum Vitae**: [cv.pdf](https://github.com/dayyass/dayyass/blob/main/cv.pdf) -->
+**Curriculum Vitae**: [cv.pdf](https://github.com/alexpaulooliveira/alexpaulooliveira/cv.pdf)
 
 ### Skills 🛠️
 - **Languages**: &nbsp;                          Python, SQL
