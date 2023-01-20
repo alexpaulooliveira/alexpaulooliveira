@@ -1,6 +1,6 @@
-![](https://komarev.com/ghpvc/?username=dayyass&color=36b812)<br>
-![](https://img.shields.io/github/followers/dayyass?style=social)<br>
-![](https://img.shields.io/github/stars/dayyass?style=social)<br>
+![](https://komarev.com/ghpvc/?username=alexpaulooliveira&color=36b812)<br>
+![](https://img.shields.io/github/followers/alexpaulooliveira?style=social)<br>
+![](https://img.shields.io/github/stars/alexpaulooliveira?style=social)<br>
 
 ### Hi, my name is Dani 👋 and I ❤️ open-source
 
