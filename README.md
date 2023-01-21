@@ -81,4 +81,5 @@ React.JS, React Native, Linux, ExpressJS, Graphs, GIS, Leaflet, OpenLayers, Grap
 <!-- ### GitHub Stats ⭐
 [![Dani El-Ayyass' github stats](https://github-readme-stats.vercel.app/api?username=alexpaulooliveira&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
  -->
-More information in my [LinkedIn](https://www.linkedin.com/in/alexpauloo/) 🚀
+ 
+### More information in my [LinkedIn](https://www.linkedin.com/in/alexpauloo/) 🚀
