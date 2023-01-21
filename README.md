@@ -27,9 +27,6 @@ React.JS, React Native, Linux, ExpressJS, Graphs, GIS, Leaflet, OpenLayers, Grap
 | Software Engineer - Internship | [TJ-SE](https://www.tjse.jus.br)    | 2001 — 2001 |
 
 
-
-
-
 ### Education 🎓
 - PhD’s Degree, in Development and Environment (Geoprocessing) @ [UFRN - Federal University of Rio Grande do Norte](https://ufrn.br) (2022 - NOW)
 - Postgraduate Degree, in Geoprocessing with qualification in Georeferencing of Rural Properties @ [Tiradentes University](https://unit.br) (2017 - 2018)
@@ -37,7 +34,8 @@ React.JS, React Native, Linux, ExpressJS, Graphs, GIS, Leaflet, OpenLayers, Grap
 - Postgraduate Degree, in Computer Science @ [Tiradentes University](https://unit.br) (2004 - 2005)
 - Bachelor's degree, in Computer Science @ [Tiradentes University](https://unit.br) (1998 - 2003)
 
-### Projects 🐾
+
+<!-- ### Projects 🐾
 - [QaNER](https://github.com/dayyass/QaNER) - unofficial implementation of QaNER paper (NER via Extractive Question Answering)
 - [RLLib](https://github.com/dayyass/rllib) - Reinforcement Learning library
 - [MUSE as Service](https://github.com/dayyass/muse-as-service) - REST API for sentence embedding using Multilingual Universal Sentence Encoder
@@ -57,19 +55,22 @@ React.JS, React Native, Linux, ExpressJS, Graphs, GIS, Leaflet, OpenLayers, Grap
 - [Introduction to Deep Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/D4VMH74AJHHK) @ Coursera
 - [Bayesian Methods for Machine Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/5R62SGB3G6GF) @ Coursera
 - [Hadoop. System for processing large amounts of data](https://stepik.org/cert/166893) @ Stepik
-
+ -->
 <!--- ### Conference participation 📈
 - IX International Scientific and Practical [Conference](https://it-mm.rea.ru/eng) named after A.I. Kitov "Information Technologies and Mathematical Methods in Economics and Management"
 - Deep and Machine Learning methods for document clustering and classification [tutorial](https://indico-hlit.jinr.ru/event/146/overview) in frames of The XXIII International Scientific [Conference](https://indico.jinr.ru/event/756) of Young Scientists and Specialists (AYSS-2019)  -->
 
-### Hackathon participation 💻
+<!-- ### Hackathon participation 💻
 - [deNews](https://ethglobal.com/showcase/denews-djqvk) @ ETHOnline 2022
 - [Alzheimer's MRI Analysis](https://github.com/dayyass/synthetic_health_data_hackathon_2020) @ Synthetic Health Data Hackathon 2020
+ -->
+### Tributes at IFS (Federal Institute of Sergipe): 🏆
+- [Homage of honor to scientific academic merit for software registration at the National Institute of Industrial Property (INPI) through the IFS technological innovation nucleus](https://drive.google.com/file/d/1x7CEwxKdOx5oGJqBuEoRW8KleSKW-Qo5/view?usp=sharing).
 
-### Achievements 🏆
-- Published [10 packages](https://pypi.org/user/dayyass/) to **PyPI** with [16k+](https://pepy.tech) downloads
-- Contributor to **PyTorch**, **Scikit-Learn**, **SciPy**
-- Open Data Science **Best Contributor 2020**
+### Tributes at EMBRAPA (Brazilian Agricultural Research Corporation): 🏆
+- [My software development methodology was considered the best in Brazil, within the scope of Embrapa which is present in all Brazilian states](https://drive.google.com/file/d/179Li5INkwAHrVz4-aqzwCo-CSAKHbKZ0/view?usp=sharing).
+- [Video made available by TV Globo, in 2023, about the GeoTC software, whose sole developer is me](https://globoplay.globo.com/v/11280637/).
+
 
 ### GitHub Stats ⭐
 [![Dani El-Ayyass' github stats](https://github-readme-stats.vercel.app/api?username=dayyass&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
