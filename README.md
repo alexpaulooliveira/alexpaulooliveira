@@ -4,13 +4,13 @@
 
 ### Hi, my name is Alex 👋 and I ❤️ open-source
 
-**Field of interests**: React.JS, React Native, Linux, ExpressJS, Graphs, GIS, Leaflet, OpenLayers
+**Field of interests**: React.JS, React Native, Linux, ExpressJS, Graphs, GIS, Leaflet, OpenLayers, GraphQL, SKLearn
 
 <!-- ! **Curriculum Vitae**: [cv.pdf](https://github.com/alexpaulooliveira/alexpaulooliveira/blob/main/cv.pdf)  -->
 
 ### Skills 🛠️
 - **Languages**: &nbsp;                          JavaScript, TypeScript, Python, SQL, PL/pgSQL 
-- **DS/ML/DL**: &nbsp;&nbsp;                     Sklearn
+- **DS/ML/DL**: &nbsp;&nbsp;                     SKLearn
 - **DevOps**:  &nbsp;&nbsp;&nbsp;&nbsp;          Linux, Git, GitLab, GitHub, CI/CD
 
 ### Work experience 👔
