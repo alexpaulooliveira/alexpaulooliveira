@@ -18,14 +18,15 @@ React.JS, React Native, Linux, ExpressJS, Graphs, GIS, Leaflet, OpenLayers, Grap
 - **Tools**:  &nbsp;&nbsp;&nbsp;&nbsp;                       Linux,Git, GitLab, GitHub, VSCode, NetLify, Overleaf, QGis
 
 ### Work experience 👔
+| ---------------------------- | ----------------------------------- | ----------  |
 | Job Position                 | Company                             | Work Period |
-| ---------------------------- | -----------------------------       | ----------  |
-| Software Engineer            | [Embrapa](https://embrapa.br)       | 2008 — NOW  |
+| ---------------------------- | ----------------------------------- | ----------  |
+| Software Engineer            | [EMBRAPA](https://embrapa.br)       | 2008 — NOW  |
 | Professor                    | [IFS](https://ifs.edu.br)           | 2007 — NOW  |
 | Professor                    | [FANESE](https://fanese.edu.br)     | 2006 — 2006 |
 | Professor                    | [FASER](http://www.faser-se.edu.br) | 2006 — 2006 |
 
-<a href="http://example.com/" target="_blank">Hello, world!</a>
+
 
 ### Education 🎓
 - [Master’s degree](https://github.com/dayyass/prior-knowledge-layer-for-sequence-tagging) @ Lomonosov Moscow State University (2019 - 2023)
