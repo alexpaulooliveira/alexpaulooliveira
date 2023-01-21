@@ -18,13 +18,14 @@ React.JS, React Native, Linux, ExpressJS, Graphs, GIS, Leaflet, OpenLayers, Grap
 - **Tools**:  &nbsp;&nbsp;&nbsp;&nbsp;                       Linux,Git, GitLab, GitHub, VSCode, NetLify, Overleaf, QGis
 
 ### Work experience 👔
-| Job Position                 | Company            | Field                        | Work Period |
-| ---------------------------- | ------------------ | ---------------------------- | ----------  |
-| Software Engineer            | [Embrapa](https://embrapa.br?target="_blank") | 2008 — NOW  |
-| Tech Lead, Product Owner     | Sber AI Сenter                              | 01.05.2021 — 01.10.2022    |
-| Senior NLP Engineer          | Tinkoff AI Lab                              | 01.02.2021 — 01.04.2021    |
-| Middle NLP Engineer          | MTS AI Lab                                  | 01.05.2020 — 01.02.2021    |
-| Junior Data Scientist        | Sberbank                                    | 01.07.2018 — 01.05.2020    |
+| Job Position                 | Company                       | Work Period |
+| ---------------------------- | ----------------------------- | ----------  |
+| Software Engineer            | [Embrapa](https://embrapa.br) | 2008 — NOW  |
+| Professor                    | [IFS](https://ifs.edu.br)     | 2007 — NOW  |
+| Tech Lead, Product Owner     | Sber AI Сenter                | 2021 — 2022 |
+| Senior NLP Engineer          | Tinkoff AI Lab                | 2021 — 2021 |
+| Middle NLP Engineer          | MTS AI Lab                    | 2020 — 2021 |
+| Junior Data Scientist        | Sberbank                      | 2018 — 2020 |
 
 <a href="http://example.com/" target="_blank">Hello, world!</a>
 
