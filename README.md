@@ -18,13 +18,18 @@ React.JS, React Native, Linux, ExpressJS, Graphs, GIS, Leaflet, OpenLayers, Grap
 - **Tools**:  &nbsp;&nbsp;&nbsp;&nbsp;                       Linux,Git, GitLab, GitHub, VSCode, NetLify, Overleaf, QGis
 
 ### Work experience 👔
-| ---------------------------- | ----------------------------------- | ----------  |
-| Job Position                 | Company                             | Work Period |
-| ---------------------------- | ----------------------------------- | ----------  |
-| Software Engineer            | [EMBRAPA](https://embrapa.br)       | 2008 — NOW  |
-| Professor                    | [IFS](https://ifs.edu.br)           | 2007 — NOW  |
-| Professor                    | [FANESE](https://fanese.edu.br)     | 2006 — 2006 |
-| Professor                    | [FASER](http://www.faser-se.edu.br) | 2006 — 2006 |
+
+| Job Position                   | Company                             | Work Period |
+| ------------------------------ | ----------------------------------- | ----------  |
+| Software Engineer              | [EMBRAPA](https://embrapa.br)       | 2008 — NOW  |
+| Professor                      | [IFS](https://ifs.edu.br)           | 2007 — NOW  |
+| Professor                      | [FANESE](https://fanese.edu.br)     | 2006 — 2006 |
+| Professor                      | [FASER](http://www.faser-se.edu.br) | 2005 — 2005 |
+| Software Engineer              | [BANESE](https://www.banese.com.br) | 2004 — 2007 |
+| Software Engineer              | [QUALYCRED]                         | 2004 — 2005 |
+| Software Engineer - Internship | [TJ-SE](https://www.tjse.jus.br)    | 2001 — 2001 |
+
+
 
 
 
