@@ -72,8 +72,9 @@ React.JS, React Native, Linux, ExpressJS, Graphs, GIS, Leaflet, OpenLayers, Grap
 - [My software development methodology was considered the best in Brazil, within the scope of Embrapa which is present in all Brazilian states](https://drive.google.com/file/d/179Li5INkwAHrVz4-aqzwCo-CSAKHbKZ0/view?usp=sharing).
 - [Video made available by TV Globo, in 2023, about the GeoTC software, whose sole developer is me](https://globoplay.globo.com/v/11280637/).
 
+<!-- ATIVAR AS ESTATÍSTICAS QUANDO A QUANTIDADE DE ESTRELAS FOR SIGNIFICATIVA -->
 
-### GitHub Stats ⭐
+<!-- ### GitHub Stats ⭐
 [![Dani El-Ayyass' github stats](https://github-readme-stats.vercel.app/api?username=alexpaulooliveira&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+ -->
 More information in my [LinkedIn](https://www.linkedin.com/in/alexpauloo/) 🚀
