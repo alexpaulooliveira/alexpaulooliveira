@@ -2,9 +2,7 @@
 ![](https://img.shields.io/github/followers/alexpaulooliveira?style=social)<br>
 ![](https://img.shields.io/github/stars/alexpaulooliveira?style=social)<br> -->
 
-### Hi, my name is Alex 👋 and I ❤️ open-source...  **[See My Repositories](https://github.com/alexpaulooliveira?tab=repositories)** 
-
-
+### Hi, my name is Alex 👋 ... and I ❤️ open-source ... **[See My Repositories](https://github.com/alexpaulooliveira?tab=repositories)** 
 
 **Field of interests**: 
 React.JS, React Native, Linux, ExpressJS, Graphs, GIS, Leaflet, OpenLayers, GraphQL, SKLearn
