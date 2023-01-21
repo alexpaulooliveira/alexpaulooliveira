@@ -18,13 +18,13 @@ React.JS, React Native, Linux, ExpressJS, Graphs, GIS, Leaflet, OpenLayers, Grap
 - **Tools**:  &nbsp;&nbsp;&nbsp;&nbsp;                       Linux,Git, GitLab, GitHub, VSCode, NetLify, Overleaf, QGis
 
 ### Work experience 👔
-| Job Position                 | Company            | Field                        | Work Period                |
-| ---------------------------- | ------------------ | ---------------------------- | -------------------------- |
-| **Team Lead**                | **SberDevices**    | **Search**                   | **01.10.2022 — until now** |
-| Tech Lead, Product Owner     | Sber AI Сenter     | NLP, MLOps, Mentoring        | 01.05.2021 — 01.10.2022    |
-| Senior NLP Engineer          | Tinkoff AI Lab     | Virtual Assistant "Oleg"     | 01.02.2021 — 01.04.2021    |
-| Middle NLP Engineer          | MTS AI Lab         | NER with Pseudo-Labeling     | 01.05.2020 — 01.02.2021    |
-| Junior Data Scientist        | Sberbank           | ML with Tabular Data, CV     | 01.07.2018 — 01.05.2020    |
+| Job Position                 | Company            | Field                        | Work Period |
+| ---------------------------- | ------------------ | ---------------------------- | ----------  |
+| Software Engineer            | [Embrapa](https://embrapa.br) | 2008 — NOW  |
+| Tech Lead, Product Owner     | Sber AI Сenter                              | 01.05.2021 — 01.10.2022    |
+| Senior NLP Engineer          | Tinkoff AI Lab                              | 01.02.2021 — 01.04.2021    |
+| Middle NLP Engineer          | MTS AI Lab                                  | 01.05.2020 — 01.02.2021    |
+| Junior Data Scientist        | Sberbank                                    | 01.07.2018 — 01.05.2020    |
 
 ### Education 🎓
 - [Master’s degree](https://github.com/dayyass/prior-knowledge-layer-for-sequence-tagging) @ Lomonosov Moscow State University (2019 - 2023)
