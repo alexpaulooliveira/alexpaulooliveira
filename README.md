@@ -12,10 +12,10 @@ React.JS, React Native, Linux, ExpressJS, Graphs, GIS, Leaflet, OpenLayers, Grap
 <!-- ! **Curriculum Vitae**: [cv.pdf](https://github.com/alexpaulooliveira/alexpaulooliveira/blob/main/cv.pdf)  -->
 
 ### Skills 🛠️
-- **Languages**: &nbsp;                          JavaScript, TypeScript, Python, SQL, PL/pgSQL 
-- **DS/ML/DL**: &nbsp;&nbsp;                     SKLearn
-- **DevOps**:  &nbsp;&nbsp;&nbsp;&nbsp;          Linux, Git, GitLab, GitHub, CI/CD
-- **SGBDs**:   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    MySQL, PostgreSQL, PostGIS
+- **Languages**: &nbsp;                                      JavaScript, TypeScript, Python, SQL, PL/pgSQL 
+- **DS/ML/DL**: &nbsp;&nbsp;                                 SKLearn
+- **DevOps**:  &nbsp;&nbsp;&nbsp;&nbsp;                      Linux, Git, GitLab, GitHub, CI/CD
+- **SGBDs**:   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    MySQL, PostgreSQL, PostGIS
 
 ### Work experience 👔
 | Job Position                 | Company            | Field                        | Work Period                |
