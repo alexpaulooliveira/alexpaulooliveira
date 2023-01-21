@@ -26,6 +26,8 @@ React.JS, React Native, Linux, ExpressJS, Graphs, GIS, Leaflet, OpenLayers, Grap
 | Middle NLP Engineer          | MTS AI Lab                                  | 01.05.2020 — 01.02.2021    |
 | Junior Data Scientist        | Sberbank                                    | 01.07.2018 — 01.05.2020    |
 
+<a href="http://example.com/" target="_blank">Hello, world!</a>
+
 ### Education 🎓
 - [Master’s degree](https://github.com/dayyass/prior-knowledge-layer-for-sequence-tagging) @ Lomonosov Moscow State University (2019 - 2023)
 - [Bachelor's degree](https://github.com/dayyass/bachelor-diploma) @ Plekhanov Russian University of Economics (2015 - 2019)
