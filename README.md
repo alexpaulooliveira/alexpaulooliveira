@@ -20,7 +20,7 @@ React.JS, React Native, Linux, ExpressJS, Graphs, GIS, Leaflet, OpenLayers, Grap
 ### Work experience 👔
 | Job Position                 | Company            | Field                        | Work Period |
 | ---------------------------- | ------------------ | ---------------------------- | ----------  |
-| Software Engineer            | [Embrapa](https://embrapa.br){:target="_blank"} | 2008 — NOW  |
+| Software Engineer            | [Embrapa](https://embrapa.br?target="_blank") | 2008 — NOW  |
 | Tech Lead, Product Owner     | Sber AI Сenter                              | 01.05.2021 — 01.10.2022    |
 | Senior NLP Engineer          | Tinkoff AI Lab                              | 01.02.2021 — 01.04.2021    |
 | Middle NLP Engineer          | MTS AI Lab                                  | 01.05.2020 — 01.02.2021    |
