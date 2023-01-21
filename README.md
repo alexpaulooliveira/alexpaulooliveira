@@ -11,7 +11,7 @@ React.JS, React Native, Linux, ExpressJS, Graphs, GIS, Leaflet, OpenLayers, Grap
 
 ### Skills 🛠️
 - **Languages**: &nbsp;                                              JavaScript, TypeScript, Python, SQL, PL/pgSQL 
-- **DS**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;           SKLearn
+- **DS**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;           SKLearn
 - **SGBDs**:   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;            MySQL, PostgreSQL, PostGIS
 - **Tools**:  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Linux, Git, GitLab, GitHub, VSCode, NetLify, Overleaf, QGis
 
