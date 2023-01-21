@@ -8,8 +8,17 @@
 
 ### Hi, my name is Alex 👋 ... and I ❤️ open-source ... **[See My Repositories](https://github.com/alexpaulooliveira?tab=repositories)** 
 
-**Field of interests**: 
-React.JS, React Native, Linux, ExpressJS, Graphs, GIS, Leaflet, OpenLayers, GraphQL, SKLearn
+### Field of interests: 
+- React.JS
+- React Native
+- Linux
+- ExpressJS
+- Graphs
+- GIS
+- Leaflet
+- OpenLayers
+- GraphQL
+- SKLearn
 
 <!-- ! **Curriculum Vitae**: [cv.pdf](https://github.com/alexpaulooliveira/alexpaulooliveira/blob/main/cv.pdf)  -->
 
