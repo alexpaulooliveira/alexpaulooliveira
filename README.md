@@ -31,8 +31,11 @@ React.JS, React Native, Linux, ExpressJS, Graphs, GIS, Leaflet, OpenLayers, Grap
 
 
 ### Education 🎓
-- [Master’s degree](https://github.com/dayyass/prior-knowledge-layer-for-sequence-tagging) @ Lomonosov Moscow State University (2019 - 2023)
-- [Bachelor's degree](https://github.com/dayyass/bachelor-diploma) @ Plekhanov Russian University of Economics (2015 - 2019)
+- PhD’s Degree, in Development and Environment (Geoprocessing) @ [UFRN - Federal University of Rio Grande do Norte](https://ufrn.br) (2022 - NOW)
+- Postgraduate Degree, in Geoprocessing with qualification in Georeferencing of Rural Properties @ [Tiradentes University](https://unit.br) (2017 - 2018)
+- Master’s degree, in Computer Science @ [UFPE - Federal University of Pernambuco](https://ufpe.br) (2011 - 2013)
+- Postgraduate Degree, in Computer Science @ [Tiradentes University](https://unit.br) (2004 - 2005)
+- Bachelor's degree, in Computer Science @ [Tiradentes University](https://unit.br) (1998 - 2003)
 
 ### Projects 🐾
 - [QaNER](https://github.com/dayyass/QaNER) - unofficial implementation of QaNER paper (NER via Extractive Question Answering)
