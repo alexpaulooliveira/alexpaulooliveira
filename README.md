@@ -8,7 +8,7 @@
 
 ### Hi, my name is Alex 👋 ... and I ❤️ open-source ... **[See My Repositories](https://github.com/alexpaulooliveira?tab=repositories)** 
 
-### Field of interests: 
+### Fields of interest:
 - React.JS
 - React Native
 - Linux
