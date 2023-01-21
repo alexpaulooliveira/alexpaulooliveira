@@ -26,7 +26,7 @@ React.JS, React Native, Linux, ExpressJS, Graphs, GIS, Leaflet, OpenLayers, Grap
 | Professor                      | [FANESE](https://fanese.edu.br)     | 2006 — 2006 |
 | Professor                      | [FASER](http://www.faser-se.edu.br) | 2005 — 2005 |
 | Software Engineer              | [BANESE](https://www.banese.com.br) | 2004 — 2007 |
-| Software Engineer              | [QUALYCRED]                         | 2004 — 2005 |
+<!-- | Software Engineer              | [QUALYCRED]                         | 2004 — 2005 | -->
 | Software Engineer - Internship | [TJ-SE](https://www.tjse.jus.br)    | 2001 — 2001 |
 
 
