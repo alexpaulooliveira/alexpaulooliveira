@@ -81,5 +81,12 @@ React.JS, React Native, Linux, ExpressJS, Graphs, GIS, Leaflet, OpenLayers, Grap
 <!-- ### GitHub Stats ⭐
 [![Dani El-Ayyass' github stats](https://github-readme-stats.vercel.app/api?username=alexpaulooliveira&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
  -->
- 
+
+### [Software registered in National Institute of Industrial Property of Brazil](https://www.gov.br/inpi/en):
+- [Branch control system used by the Federal Institute of Sergipe (Controle de Ramais)](https://drive.google.com/file/d/181p-rk8fsGTfSaI_FkHS0KFQ-vTNKkMX/view?usp=sharing)
+- [Management of the Congress entitled CONNEPI (Gestão do CONNEPI)](https://drive.google.com/file/d/1ccK61yg3ogd_wLHJTC0BRXawB63QjTal/view?usp=sharing)
+- [Intranet of the Federal Institute of Sergipe (Intranet do IFS)](https://drive.google.com/file/d/1KJJx0mdP_l_9_XgFf-UnUiWqWE_gI5mJ/view?usp=sharing)
+- [System of Scientific Publications of the Federal Institute of Sergipe (Gestão de Publicações)](https://drive.google.com/file/d/1q2DU2xayOEOZqRL6Tym1jYdY2J-Iv2FZ/view?usp=sharing)
+- [Self-Assessment Commission of the Federal Institute of Sergipe (CPA - Comissão Própria de Avaliação)](https://drive.google.com/file/d/1V6ujmm40vrmziyI90Fhc5ZLR_qze6BRP/view?usp=sharing)
+
 ### More information in my [LinkedIn](https://www.linkedin.com/in/alexpauloo/) 🚀
