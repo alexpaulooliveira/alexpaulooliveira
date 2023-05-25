@@ -11,6 +11,7 @@
 ### Fields of interest:
 - NodeJS
 - ReactJS
+- NextJS
 - React Native
 - Linux
 - ExpressJS
